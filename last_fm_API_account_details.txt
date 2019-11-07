@@ -1,4 +1,0 @@
-Application name	For learning purposes (Ironhack)
-API key	f6485238cdd15d658c0aa93709100774
-Shared secret	6b5dfd2fcfac0c2ae84727df375cbbef
-Registered to	lsmalley
